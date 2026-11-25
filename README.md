@@ -13,4 +13,4 @@ Estudiante de desarrollo de aplicaciones web y entusiasta del desarrollo backend
 ## Mi portfolio
 
 Puedes visitar mi portfolio completo aquí:  
-👉 [https://TU-USUARIO.github.io/jairo-portfolio/](https://TU-USUARIO.github.io/jairo-portfolio/)
+👉 [https://jairotorres-17.github.io/jairo-portfolio/](https://jairotorres-17.github.io/jairo-portfolio/)
