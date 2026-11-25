@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Jairo 👋
 
-<!--
-**JairoTorres-17/JairoTorres-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de desarrollo de aplicaciones web y entusiasta del desarrollo backend y de videojuegos. Me gusta construir proyectos prácticos, mejorar día a día y seguir aprendiendo nuevas herramientas.
 
-Here are some ideas to get you started:
+## Tecnologías que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5 y CSS3
+- JavaScript / TypeScript
+- Java y Spring Boot
+- Node.js / Express y bases de datos
+- Git y GitHub
+
+## Mi portfolio
+
+Puedes visitar mi portfolio completo aquí:  
+👉 [https://TU-USUARIO.github.io/jairo-portfolio/](https://TU-USUARIO.github.io/jairo-portfolio/)
